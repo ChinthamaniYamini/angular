@@ -1,0 +1,8 @@
+.table,tr,td{
+    background-color: transparent;
+    text-align: center;
+    width: 1000px;
+    margin: 3000x auto;
+    border: 1px solid #000000;
+    background-color: white;
+}
